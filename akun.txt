@@ -1,0 +1,2 @@
+username: admin
+password: $2y$10$ozXIAdTDQ0mZIx2Yde8gf.kGfGvk1JgISH2OL1seLXbkJXTnfTd0y
